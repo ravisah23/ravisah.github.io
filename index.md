@@ -3,7 +3,7 @@ layout: default
 title: Ravi Kumar Sah
 ---
 
-# Ravi Kumar Sah
+<!-- # Ravi Kumar Sah -->
 
 ### B2B SaaS Sales Professional | SDR | Business Development | Enterprise Sales
 
