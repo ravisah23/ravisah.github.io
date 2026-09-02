@@ -1,0 +1,28 @@
+.profile-photo {
+  width: 100%;
+  max-width: 337px;
+  height: auto;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.contact-links {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 15px;
+}
+
+.contact-links a {
+  text-decoration: none;
+}
+
+.contact-links span {
+  color: #666;
+}
+
+@media screen and (max-width: 960px) {
+  .profile-photo {
+    max-width: 250px;
+  }
+}
