@@ -26,3 +26,44 @@
     max-width: 250px;
   }
 }
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+  margin: 20px 0 10px;
+}
+
+.metric-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  padding: 18px 20px;
+  background: #fafafa;
+}
+
+.metric-card-wide {
+  grid-column: 1 / -1;
+}
+
+.metric-value {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 6px;
+}
+
+.metric-label {
+  font-size: 15px;
+  color: #666;
+  line-height: 1.4;
+}
+
+@media screen and (max-width: 600px) {
+  .metrics-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .metric-card-wide {
+    grid-column: auto;
+  }
+}

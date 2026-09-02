@@ -18,20 +18,34 @@ Experienced in prospecting, discovery, SaaS product demonstrations, lead qualifi
 
 ## Key Results
 
-**4+ Years**  
-Sales Experience
+<div class="metrics-grid">
 
-**3+ Years**  
-B2B SaaS
+  <div class="metric-card">
+    <div class="metric-value">4+ Years</div>
+    <div class="metric-label">Sales Experience</div>
+  </div>
 
-**80–100**  
-Discovery Calls / Month
+  <div class="metric-card">
+    <div class="metric-value">3+ Years</div>
+    <div class="metric-label">B2B SaaS</div>
+  </div>
 
-**30%**  
-Lead-to-Customer Conversion
+  <div class="metric-card">
+    <div class="metric-value">80–100</div>
+    <div class="metric-label">Discovery Calls / Month</div>
+  </div>
 
-**90%+**  
-Meeting Completion
+  <div class="metric-card">
+    <div class="metric-value">30%</div>
+    <div class="metric-label">Lead-to-Customer Conversion</div>
+  </div>
+
+  <div class="metric-card metric-card-wide">
+    <div class="metric-value">90%+</div>
+    <div class="metric-label">Meeting Completion</div>
+  </div>
+
+</div>
 
 ---
 
