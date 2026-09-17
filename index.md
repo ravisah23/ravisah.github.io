@@ -32,7 +32,7 @@ Experienced in prospecting, discovery, SaaS product demonstrations, lead qualifi
 
   <div class="metric-card">
     <div class="metric-value">80–100</div>
-    <div class="metric-label">Discovery Calls / Month</div>
+    <div class="metric-label">Discovery Calls / Day</div>
   </div>
 
   <div class="metric-card">
